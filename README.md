@@ -161,8 +161,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
- 
- 
- 
+ ![LED OFF PMC EXP2](https://github.com/Prasannalakshmiganesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118610231/295be51c-821e-44cf-8839-d0c57bbc9610)
+
+ ![LED ON WHILE BLINKING NEW PMC EXP2](https://github.com/Prasannalakshmiganesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118610231/190a77f1-80bb-4751-b6e8-04858ee8191f)
+
+ ![LED OFF WHILE BLINKIN PMCEXP2](https://github.com/Prasannalakshmiganesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118610231/64d92887-23f3-4818-ae4f-7cb6b8028f64)
+
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
